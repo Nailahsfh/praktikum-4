@@ -1,0 +1,43 @@
+
+.tulis{
+    max-width: 680px; 
+    border: 1px solid black; 
+    margin: auto; @media only screen and (max-width: 600px);
+}
+
+.baba{
+    display: flex;
+}
+
+.ab{
+    list-style-type: none;
+}
+
+.ac{
+    list-style-type: none;
+}
+
+.ad{
+    font-size: xx-large;
+}
+
+.bbbb{
+    width: 150px; height: 150px;
+}
+
+.aaaa{
+    font: size 45px;; width: 600px;
+}
+
+.flex-container{
+    display: flex;
+    height: 200px;
+}
+
+.bubu{
+    height: 200px;
+}
+
+.bebe{
+    height: 200px;
+}
