@@ -1,0 +1,106 @@
+.a{
+    max-width: 1000px; 
+    border: 1px solid black; 
+    margin: auto; @media only screen and (max-width: 600px);
+}
+.b{
+    background-color: gainsboro
+}
+.c{
+    display: flex; 
+    align-items: center; 
+    padding: 10px; 
+    border-bottom: 1px solid black
+}
+.d{
+    margin-right: 50px; 
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px
+}
+.e{
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px
+}
+.f{
+    margin-left: auto; 
+    display: flex; 
+    align-items: center; 
+    list-style-type: none; 
+    gap: 10px
+}
+.g{
+    display: flex; 
+    gap: 10px; 
+    align-items: center
+}
+.h{
+    display: flex; 
+    gap: 20px; 
+    margin-top: 100px; 
+    padding: 10px
+}
+.i{
+    width: 60%
+}
+.j{
+    display: flex; 
+    align-items: center; 
+    gap: 10px
+}
+.k{
+    font-size: 23px; 
+    font-weight: bolder
+}
+.l{
+    border-top: 1px solid black; border-bottom: 1px solid black; 
+    padding-left: 10px
+}
+.m{
+    list-style-type: none
+}
+.n{
+    display: flex
+}
+.o{
+    list-style-type: none
+}
+.p{
+    font-weight: bolder
+}
+.q{
+    width: 300px; 
+    height: 300px; 
+    background-color: lightgray; padding: 10px; display: grid; 
+    align-items: center
+}
+.r{
+    width: 100%; 
+    padding: 10px 0; 
+    border-collapse: collapse
+}
+.s{
+    border-top: 2px solid white; padding-left: 10px; 
+    padding-top: 10px
+}
+.t{
+    border-top: 2px solid white
+}
+.u{
+    border-top: 2px solid white; text-align: right; 
+    font-weight: bolder
+}
+.v{
+    margin-top: 100px; border-top: 1px solid black; padding: 20px; display: grid; 
+    gap: 10px
+}
+.w{
+    display: flex; gap: 10px
+}
+.y{
+    display: flex; align-items: center; margin-left: auto; font-weight: bolder
+}
+.z{
+    background-color: rgb(131, 126, 126)
+}
